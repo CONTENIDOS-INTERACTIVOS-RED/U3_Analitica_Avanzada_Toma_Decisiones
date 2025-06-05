@@ -1,7 +1,26 @@
 <template lang="pug">
   .curso-main-container.pb-3
-    BannerInterno(:subTitulo="'3. Título tema'")
+    BannerInterno(:subTitulo="'3. Evaluación del impacto de la analítica en la rentabilidad y el desempeño empresarial'")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
+
+
+
+      .row.mb-5
+        .col-lg-5
+          figure
+            img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
+        .col-lg-7
+          p(data-aos="fade-left").mb-4 Contenido del párrafo principal
+      
+          .bg-color-1.p-4(data-aos="fade-left").mb-4
+            .row.align-items-center
+              .col-lg-auto
+                img(src="@/assets/curso/tema3/2.svg", style="max-width: 90px").mx-auto
+              .col-lg
+                p.mb-0 La analítica de datos es una herramienta esencial para evaluar el impacto de la analítica en la rentabilidad y el desempeño empresarial.
+      
+          p(data-aos="fade-left").mb-4 Contenido del párrafo principal
+      
   
       #t_3_1.titulo-segundo(data-aos="flip-up")
         h2 #[span 3.1] Subtítulo tema
