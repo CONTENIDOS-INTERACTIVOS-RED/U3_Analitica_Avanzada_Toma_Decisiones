@@ -137,6 +137,9 @@
       
             .div(titulo="Máquinas de Soporte Vectorial (SVM)")
               p Clasificación de tendencias y segmentación con alta precisión
+
+            .div(titulo="Series temporales")
+              p Predicción de demanda futura, análisis estacional y proyecciones de mercado
       
       
       
@@ -165,7 +168,7 @@
           .row
             .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
               h4 Citibank
-              p Predice el desempeño energético de sus baterías.
+              p Evalúa riesgos de inversión y comportamiento crediticio.
             .col-md-6.col-lg-5.col-xl-4.order-1
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/tab-3.png', alt='')

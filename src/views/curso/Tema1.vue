@@ -167,7 +167,7 @@
           .col-lg-auto
             img(src="@/assets/curso/tema1/13.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 empresariales, aportando eficiencia, reducción de costos y mejora en la competitividad. Tal como se observa en diversos sectores —desde la manufactura hasta el marketing digital— estas herramientas son clave para enfrentar los desafíos actuales. A futuro, su integración con inteligencia artificial y big data ampliará aún más su impacto en la gestión empresarial.
+            p.mb-0 El uso de algoritmos de optimización ha transformado la toma de decisiones empresariales, aportando eficiencia, reducción de costos y mejora en la competitividad. Tal como se observa en diversos sectores —desde la manufactura hasta el marketing digital— estas herramientas son clave para enfrentar los desafíos actuales. A futuro, su integración con inteligencia artificial y big data ampliará aún más su impacto en la gestión empresarial.
     
 
     #t_1_2.titulo-segundo(data-aos="flip-up")
